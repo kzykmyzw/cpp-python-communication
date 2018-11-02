@@ -25,6 +25,6 @@ pip install zmq
 
 ## Run
 1. Compile `cpp_python_com.cpp` to generate an execution file
-1. Put images in `sample` directory
+1. Put images in `sample` directory (JPG only)
 1. Run the execution file
 1. `classify.py` returns VGG16 classification results for the images
